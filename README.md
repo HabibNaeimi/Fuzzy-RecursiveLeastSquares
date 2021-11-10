@@ -11,10 +11,13 @@ This program was developed as a course project for Fuzzy systems course by Habib
 A function for calculating parameter Muo in algorithem.
 
 ### CalculatingB.m
-A function for calculating parameter B using CalculatingMuo.
+A function for calculating parameter B using CalculatingMuo function.
 
 ### RuleBase.m
 Creates The Rule Base using number of membership functions and inputs number.
 
 ### RLSAlgorithem.m
 Main Program.
+
+### Recursive Least Squares Report.pdf
+Report and further details.
