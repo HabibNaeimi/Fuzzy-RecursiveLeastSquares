@@ -1,4 +1,4 @@
-# Fuzzy-RecursiveLeastSquares
+# Fuzzy Recursive Least Squares Algorithem
  Design of Fuzzy System Using Recursive Least Squares Algorithm
 - Prediction of the Mackey-Glass chaotic time series.
 - Development of no conflict rule base and customization of the project for any membership function,
